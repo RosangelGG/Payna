@@ -1,0 +1,7 @@
+poppins 55px negrita
+poppins 36px 
+h3 o h4
+subtitulo poppins 16px 
+texto de parrafo poppins regular 16px
+ extra poppins semibold
+ 
